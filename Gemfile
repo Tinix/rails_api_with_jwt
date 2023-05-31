@@ -49,8 +49,8 @@ group :development do
   # gem "spring"
 end
 
-gem "faker", "~> 3.2"
-gem "rails-pry", "~> 0.0.1"
+gem 'faker', '~> 3.2'
+gem 'rails-pry', '~> 0.0.1'
 
-gem "awesome_print", "~> 1.9"
-gem "pry-byebug", "~> 3.10"
+gem 'awesome_print', '~> 1.9'
+gem 'pry-byebug', '~> 3.10'
